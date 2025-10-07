@@ -1,3 +1,3 @@
-# fork-and-pull
+# fork-and-clone
 
-This is repo to learn fork-and-pull!
+This is repo to learn fork-and-clone!
